@@ -1,4 +1,6 @@
 ﻿'This is a comment line to help me understand how to use GitHub with Visual Studio 2017
+'These are additional comments. I opened visual studio and cloned the BushingBuilder repository, I think. I will
+'push these changes to see how things work.
 Public Class FormBushingBuilder
     Public CATIAV5 As INFITF.Application
     Public BushingID As Double
