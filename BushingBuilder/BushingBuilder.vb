@@ -1,4 +1,5 @@
-﻿Public Class FormBushingBuilder
+﻿'This is a comment line to help me understand how to use GitHub with Visual Studio 2017
+Public Class FormBushingBuilder
     Public CATIAV5 As INFITF.Application
     Public BushingID As Double
     Public BushingOD As Double
